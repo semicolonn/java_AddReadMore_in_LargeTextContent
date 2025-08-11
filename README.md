@@ -1,0 +1,1 @@
+I need this code in one of my content that am developing in spring boot and I try it as a test in java cli to find a solution for my problem and am sharing it as a source of snippet code for public may someone need it some day.
